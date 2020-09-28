@@ -6,4 +6,8 @@
     3. git store data in .git directory.
     4. tree .git -> to show of tree graph of data.
     5. git cat-file -t or -p(print contents)-> return type our binaray data like commit etc.
+    6. git log -> it show the commits that has been done in our project.
+      using --oneline flag can wrap data in single lines.
+     --no-pager flag fit contents in one line.
+    7. git branch 'name' -> will create new branch of project.
 */
